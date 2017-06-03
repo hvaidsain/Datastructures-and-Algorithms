@@ -36,7 +36,7 @@ class SelectionSort{
 		}
 		long endTime   = System.currentTimeMillis();
 		long totalTime = endTime - startTime;
-		System.out.println(" totalTime:"+totalTime);
+		System.out.println(" totalTime:"+totalTime); //just timing my sorting algorithm for comparison
 
 
 	}

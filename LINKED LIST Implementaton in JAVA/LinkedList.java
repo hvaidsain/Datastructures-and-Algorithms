@@ -65,7 +65,7 @@ class Node{
 
 		}
 
-		public Node deleteAtposition(Node head,int position){		//function to delete at nth position
+		public Node deleteAtposition(Node head,int position){		//function to delete node at nth position
 			Node prev = head;
 			int count = 1;
 

@@ -40,7 +40,7 @@ class Node{
 			System.out.println("Number of Nodes:"+count);
 		}
 
-		public Node insertAtPosition(Node head,int position){		//function to insert a nodes at nth position
+		public Node insertAtPosition(Node head,int position){		//function to insert a node at nth position
 
 			int count=1;
 			Node current = head;

@@ -30,7 +30,7 @@ class CountingSort{
 		}
 
 
-		int count[] = new int[max+1];	//Count array which will store the how many times that index appeared in the original array
+		int count[] = new int[max+1];	//Count array which will store how many times that index appeared in the original array
 
 		for(int i=0;i<n;i++){
 

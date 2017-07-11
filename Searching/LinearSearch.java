@@ -6,7 +6,7 @@ import java.io.*;
 class LinearSearch{
 
 
-	//Time complexity O(n).....where n is the the size of the input
+	//Time complexity O(n).....where n is the size of the input
 	//Space Complexity O(1)
 
 	public static boolean search(int a[],int key){  //A function of return type boolean to search element in the array

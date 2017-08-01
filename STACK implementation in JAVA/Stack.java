@@ -31,7 +31,7 @@ class MyStack{
 	public void display(){				//Function to display elements in Stack				
 
 		if(top<0){
-			System.out.println("Stack Empty");
+			System.out.println("Stack is Empty");
 		}
 
 		else{

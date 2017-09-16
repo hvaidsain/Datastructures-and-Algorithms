@@ -4,7 +4,7 @@ import java.io.*;
 
 class Heap{  
 
-	//Program to build a max from a given unsorted array
+	//Program to build a maxheap from a given unsorted array
 
 
 

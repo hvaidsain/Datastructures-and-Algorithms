@@ -31,7 +31,7 @@ class BST{
 
 
 
-	public Node insert(Node root,int key){		//
+	public Node insert(Node root,int key){		//Method to Insert Node in the BST
 
 		Node newNode = new Node(key);
 		if(root==null){

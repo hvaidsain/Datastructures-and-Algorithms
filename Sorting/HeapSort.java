@@ -70,10 +70,10 @@ class HeapSort{
 
 		buildMaxHeap(a);
 
-		print(a);
+		print(a);								//Printing the Max-Heap
+							
+		heapSort(a);							
 
-		heapSort(a);
-
-		print(a);
+		print(a);								//Printing the Sorted Array						
 	}
 }
